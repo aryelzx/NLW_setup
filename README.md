@@ -2,3 +2,5 @@
 nlw setup aplicação de hábitos.
 
 ## Apenas browser
+
+Ref: Rocketseat
